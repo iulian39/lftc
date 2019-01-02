@@ -1,0 +1,19 @@
+int main() {
+	int raza;
+	int arie;
+	int perim;
+	double pi;
+
+	pi = 3.14;
+
+	cin(raza);
+
+    if ( raza > 0) {
+        arie = 2 * pi * raza;
+
+        perim = pi * raza * raza;
+
+        cout(     arie);
+        cout(perim);
+    }
+}
